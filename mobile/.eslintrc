@@ -1,0 +1,12 @@
+{
+  "extends": ["@react-native-community", "prettier"],
+  "rules": {
+    "prettier/prettier": ["error", {
+      "singleQuote": true,
+      "trailingComma": "es5",
+      "endOfLine": "lf",
+      "arrowParens": "avoid"
+      }]
+  },
+  "plugins": ["prettier"]
+}
