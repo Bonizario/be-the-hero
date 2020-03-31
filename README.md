@@ -56,14 +56,14 @@
 
 ## :electric_plug: Deploy
 
-The project was deployed on Heroku. You can check it out <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>.
+The project was deployed on Heroku. You can check it out <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="_blank">here</a>.
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Bonizario/be-the-hero/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the <a href="https://github.com/Bonizario/be-the-hero/blob/master/LICENSE" target="_blank">LICENSE</a> for more information.
 
 ---
 
-Made with ♥ by Gabriel Bonizario :wave: [Get in touch!](https://www.linkedin.com/in/gabriel-bonizario/)
+Made with ♥ by Gabriel Bonizario :wave: <a href="https://www.linkedin.com/in/gabriel-bonizario/" target="_blank">Get in touch!</a>
 
 
 
