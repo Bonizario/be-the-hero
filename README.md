@@ -58,7 +58,7 @@ App built during the 11th edition of the Semana OmniStack held by Rocketseat.
 
 ## :electric_plug: Deploy
 
-The project was deployed on Heroku. You can check it out <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>.
+This project was deployed on Heroku. You can check it out <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>.
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Bonizario/be-the-hero/blob/master/LICENSE) for more information.
