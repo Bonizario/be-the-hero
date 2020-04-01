@@ -1,9 +1,11 @@
 # Be The Hero app
+
 <h1 align="center">
   <img alt="Be The Hero app" title="Be The Hero app" src="assets/logo.svg" width="300px" />
 </h1>
 
 App built during the 11th edition of the Semana OmniStack held by Rocketseat.
+
 <h3 align="center">
   :books: App built with Node, ReactJS and React Native :books:
 </h3>
@@ -25,10 +27,23 @@ App built during the 11th edition of the Semana OmniStack held by Rocketseat.
 
 </p>
 
-
 <p align="center">
   <img />
 </p>
+
+## :electric_plug: Check it out!
+
+This project was deployed on Heroku and you can acess it <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>. Feel free to give some feedbacks!
+
+<img href="https://github.com/Bonizario/be-the-hero/blob/master/assets/betheherosingup.gif">
+
+### Make the difference
+
+After signing up, the organization can create new incidents and ask the community for help. In the mobile application, the user has access to all incidents from all NGOs and can get in touch by email or whatsapp.
+
+<img href="https://github.com/Bonizario/be-the-hero/blob/master/assets/betheherosingup.gif">
+
+(Mobile deploy coming soon)
 
 ## :rocket: Technologies
 
@@ -55,20 +70,13 @@ App built during the 11th edition of the Semana OmniStack held by Rocketseat.
 - [Supertest](https://github.com/visionmedia/supertest)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-
-## :electric_plug: Deploy
-
-This project was deployed on Heroku. You can check it out <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>.
-
 ## :memo: License
+
 This project is under the MIT license. See the [LICENSE](https://github.com/Bonizario/be-the-hero/blob/master/LICENSE) for more information.
 
 ---
 
 Made with ♥ by Gabriel Bonizario :wave: [Get in touch!](https://www.linkedin.com/in/gabriel-bonizario/)
-
-
-
 
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
