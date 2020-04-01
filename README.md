@@ -35,13 +35,13 @@ App built during the 11th edition of the Semana OmniStack held by Rocketseat.
 
 This project was deployed on Heroku and you can acess it <a href="https://be-the-hero-frontend-bonizario.herokuapp.com/" target="blank">here</a>. Feel free to give some feedbacks!
 
-<img alt="Signing Up" title="Signing Up" href="https://i.imgur.com/NM9u0K6.gif">
+<img alt="Signing Up" title="Signing Up" width="50%" href="https://github.com/Bonizario/be-the-hero/blob/master/assets/betheherosingup.gif">
 
 ### Make the difference
 
 After signing up, the organization can create new incidents and ask the community for help. In the mobile application, the user has access to all incidents from all NGOs and can get in touch by email or whatsapp.
 
-<img alt="Creating a Incident" title="Creating a Incident" href="https://i.imgur.com/UQ4T8Ni.gif" width="500px">
+<img alt="Creating a Incident" title="Creating a Incident" width="50%" href="https://github.com/Bonizario/be-the-hero/blob/master/assets/betheheroincident.gif">
 
 (Mobile deploy coming soon)
 
