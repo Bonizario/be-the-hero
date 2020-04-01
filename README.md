@@ -4,8 +4,6 @@
   <img alt="Be The Hero app" title="Be The Hero app" src="assets/logo.svg" width="300px" />
 </h1>
 
-App built during the 11th edition of the Semana OmniStack held by Rocketseat.
-
 <h3 align="center">
   :books: App built with Node, ReactJS and React Native :books:
 </h3>
