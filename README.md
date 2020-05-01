@@ -13,8 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codacy.com/manual/Bonizario/be-the-hero?utm_source=github.com&utm_medium=referral&utm_content=Bonizario/be-the-hero&utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/54f716c6818740beafac1ce235e0690a"/></a>
-
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Bonizario/be-the-hero?color=blue">
 
   <img alt="License" src="https://img.shields.io/github/license/Bonizario/be-the-hero?color=blue">
