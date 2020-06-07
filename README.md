@@ -1,11 +1,9 @@
-# Be The Hero app
-
 <h1 align="center">
   <img alt="Be The Hero app" title="Be The Hero app" src="assets/logo.svg" width="300px" />
 </h1>
 
 <h3 align="center">
-  :books: App built with Node, ReactJS and React Native :books:
+  App built with Node, ReactJS and React Native
 </h3>
 
 <p align="center">
